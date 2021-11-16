@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/anmolchhibber/Documents/Ratul/iOS/DesignPatterns/01-Solid.playground">
+   </FileRef>
+   <FileRef
+      location = "group:02-Creational_Builder.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/anmolchhibber/Documents/Ratul/iOS/DesignPatterns/03-Creational_Factories.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/anmolchhibber/Documents/Ratul/iOS/DesignPatterns/04-Creational_Prototype.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/anmolchhibber/Documents/Ratul/iOS/DesignPatterns/05-Creational_Singleton.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/anmolchhibber/Documents/Ratul/iOS/DesignPatterns/06-Structural_Adapter.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/anmolchhibber/Documents/Ratul/iOS/DesignPatterns/07-Structural_Bridge.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/anmolchhibber/Documents/Ratul/iOS/DesignPatterns/09-Structural_Decorator.playground">
+   </FileRef>
+</Workspace>
