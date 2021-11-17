@@ -1,0 +1,88 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		C5043A85274573C200FED1B0 /* 01-Solid.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "01-Solid.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		C5043A86274573C200FED1B0 /* 09-Structural_Decorator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "09-Structural_Decorator.playground"; sourceTree = "<group>"; };
+		C5043A87274573C200FED1B0 /* 07-Structural_Bridge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "07-Structural_Bridge.playground"; sourceTree = "<group>"; };
+		C5043A88274573C200FED1B0 /* 06-Structural_Adapter.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "06-Structural_Adapter.playground"; sourceTree = "<group>"; };
+		C5043A8B274573C200FED1B0 /* 05-Creational_Singleton.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "05-Creational_Singleton.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		C5043A8C274573C200FED1B0 /* 04-Creational_Prototype.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "04-Creational_Prototype.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		C5043A8D2745740400FED1B0 /* 02-Creational_Builder.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "02-Creational_Builder.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		C5188879274575570078B447 /* 03-Creational_Factories.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "03-Creational_Factories.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		C5043A7E274573A800FED1B0 = {
+			isa = PBXGroup;
+			children = (
+				C5043A85274573C200FED1B0 /* 01-Solid.playground */,
+				C5043A8D2745740400FED1B0 /* 02-Creational_Builder.playground */,
+				C5188879274575570078B447 /* 03-Creational_Factories.playground */,
+				C5043A8C274573C200FED1B0 /* 04-Creational_Prototype.playground */,
+				C5043A8B274573C200FED1B0 /* 05-Creational_Singleton.playground */,
+				C5043A88274573C200FED1B0 /* 06-Structural_Adapter.playground */,
+				C5043A87274573C200FED1B0 /* 07-Structural_Bridge.playground */,
+				C5043A86274573C200FED1B0 /* 09-Structural_Decorator.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		C5043A7F274573A800FED1B0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1310;
+			};
+			buildConfigurationList = C5043A82274573A800FED1B0 /* Build configuration list for PBXProject "DesignPatterns" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C5043A7E274573A800FED1B0;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		C5043A83274573A800FED1B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		C5043A84274573A800FED1B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C5043A82274573A800FED1B0 /* Build configuration list for PBXProject "DesignPatterns" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C5043A83274573A800FED1B0 /* Debug */,
+				C5043A84274573A800FED1B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C5043A7F274573A800FED1B0 /* Project object */;
+}

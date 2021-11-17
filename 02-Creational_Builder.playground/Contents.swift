@@ -1,6 +1,5 @@
 /**
  1. This Creational design pattern is used when construction may get too complicated
-
  2. Example - Say having 10 arguments in the initializer is not productive. Therefore, instead we opt for piecewise construction.
  
  3. Builder provides an API for constructing an object step by step(for doing the aforesaid piecewise construction).
@@ -31,13 +30,10 @@
 
 /**
  You are asked to implement the Builder design pattern for rendering simple chunks of code.
-
  Sample use of the builder you are asked to create:
-
  var cb = CodeBuilder("Person").AddField("name", "String").AddField("age", "Int");
  print(cb.description);
  The expected output of the above code is:
-
  class Person
  {
    var name: String
