@@ -22,3 +22,34 @@ To achieve the aforesaid-
  
  */
 
+// 1. Dynamic decorator composition
+//Can put layers one on top of another - Thereby, giving them additional functionality.
+import Foundation
+import CoreGraphics
+
+protocol Shape : CustomStringConvertible
+{
+  var description: String { get }
+}
+
+struct Circle: Shape {
+    let radius: Int
+    var description: String {  "A circle of radius \(radius)" }
+}
+
+struct ColoredShape: Shape {
+    let shape: Shape
+    let color: String
+    
+    var description: String { "\(shape.description) with \(color) color!" }
+}
+
+func main()
+{
+  // dynamic
+  let circle = Circle(radius: 10)
+  let coloredCircle = ColoredShape(shape: circle, color: "yellow")
+  print(coloredCircle)
+}
+
+main()

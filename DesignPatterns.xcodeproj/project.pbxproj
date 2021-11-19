@@ -8,7 +8,7 @@
 
 /* Begin PBXFileReference section */
 		C5043A85274573C200FED1B0 /* 01-Solid.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "01-Solid.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		C5043A86274573C200FED1B0 /* 09-Structural_Decorator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "09-Structural_Decorator.playground"; sourceTree = "<group>"; };
+		C5043A86274573C200FED1B0 /* 09-Structural_Decorator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "09-Structural_Decorator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C5043A87274573C200FED1B0 /* 07-Structural_Bridge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "07-Structural_Bridge.playground"; sourceTree = "<group>"; };
 		C5043A88274573C200FED1B0 /* 06-Structural_Adapter.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "06-Structural_Adapter.playground"; sourceTree = "<group>"; };
 		C5043A8B274573C200FED1B0 /* 05-Creational_Singleton.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "05-Creational_Singleton.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
