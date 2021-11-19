@@ -15,6 +15,7 @@
 		C5043A8C274573C200FED1B0 /* 04-Creational_Prototype.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "04-Creational_Prototype.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C5043A8D2745740400FED1B0 /* 02-Creational_Builder.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "02-Creational_Builder.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C5188879274575570078B447 /* 03-Creational_Factories.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "03-Creational_Factories.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		C518887A274575D20078B447 /* 08-Structural_Composite.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "08-Structural_Composite.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -28,6 +29,7 @@
 				C5043A8B274573C200FED1B0 /* 05-Creational_Singleton.playground */,
 				C5043A88274573C200FED1B0 /* 06-Structural_Adapter.playground */,
 				C5043A87274573C200FED1B0 /* 07-Structural_Bridge.playground */,
+				C518887A274575D20078B447 /* 08-Structural_Composite.playground */,
 				C5043A86274573C200FED1B0 /* 09-Structural_Decorator.playground */,
 			);
 			sourceTree = "<group>";
