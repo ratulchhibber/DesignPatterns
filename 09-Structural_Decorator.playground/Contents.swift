@@ -52,4 +52,7 @@ func main()
   print(coloredCircle)
 }
 
+// 2. Static decorator composition
+//Read Specification pattern- https://medium.com/swift2go/mastering-generics-with-protocols-the-specification-pattern-5e2e303af4ca
+
 main()
