@@ -9,8 +9,8 @@
 /* Begin PBXFileReference section */
 		C5043A85274573C200FED1B0 /* 01-Solid.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "01-Solid.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C5043A86274573C200FED1B0 /* 09-Structural_Decorator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "09-Structural_Decorator.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		C5043A87274573C200FED1B0 /* 07-Structural_Bridge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "07-Structural_Bridge.playground"; sourceTree = "<group>"; };
-		C5043A88274573C200FED1B0 /* 06-Structural_Adapter.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "06-Structural_Adapter.playground"; sourceTree = "<group>"; };
+		C5043A87274573C200FED1B0 /* 07-Structural_Bridge.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "07-Structural_Bridge.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		C5043A88274573C200FED1B0 /* 06-Structural_Adapter.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "06-Structural_Adapter.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C5043A8B274573C200FED1B0 /* 05-Creational_Singleton.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "05-Creational_Singleton.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C5043A8C274573C200FED1B0 /* 04-Creational_Prototype.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "04-Creational_Prototype.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C5043A8D2745740400FED1B0 /* 02-Creational_Builder.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "02-Creational_Builder.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -19,6 +19,7 @@
 		C518887B2747B2230078B447 /* 10-Structural_Facade.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "10-Structural_Facade.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C518887C2747BB3D0078B447 /* 11-Structural_Flyweight.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "11-Structural_Flyweight.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C518887D274824F80078B447 /* 12-Structural_Proxy.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "12-Structural_Proxy.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		C518887E274840500078B447 /* 13-Creational_ChainOfResponsibility.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "13-Creational_ChainOfResponsibility.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -37,6 +38,7 @@
 				C518887B2747B2230078B447 /* 10-Structural_Facade.playground */,
 				C518887C2747BB3D0078B447 /* 11-Structural_Flyweight.playground */,
 				C518887D274824F80078B447 /* 12-Structural_Proxy.playground */,
+				C518887E274840500078B447 /* 13-Creational_ChainOfResponsibility.playground */,
 			);
 			sourceTree = "<group>";
 		};
