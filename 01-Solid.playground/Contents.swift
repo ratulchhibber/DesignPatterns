@@ -13,6 +13,6 @@
  4.a. Don't put too muich into an interface, split into intefaces.
  4.b. YAGNI- You Ain't Going to Need it.
  
- 5. **Dependency INversion Principle**-
+ 5. **Dependency Inversion Principle**-
  5.a. High-level modules should not depend on low-level modules- They should depend on abstractions.
  */

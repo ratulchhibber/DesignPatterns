@@ -7,7 +7,7 @@
  
  4. There are some places where singleton is used - example Logging etc.
  
- In this case rather than using Logger.shared. thorught your codebase - wrap it in a protocol function
+ In this case rather than using Logger.shared. throught your codebase - wrap it in a protocol function
  
  Example- protocol Logging {
  func log(message: String)
@@ -26,7 +26,7 @@
  
  3.a. Testability- Since, the instance being created cannot be mocked- It brings forth issues in testability
  
- 3.b. Creates an object which lives throughout the lifecycle of an application - The created object does not get purged cleader up via reference counting mechanism.
+ 3.b. Creates an object which lives throughout the lifecycle of an application - The created object does not get purged cleared up via reference counting mechanism.
  */
 
 /**
@@ -45,7 +45,6 @@ class SingletonTester
 
 /**
 Monotype pattern-
-There may be cases where Singleotn is used underneath a class - This may cause issues since, the consumer of the class does not know that a Singleton is being used underneath.
- 
- This, non-explicit use of Singleton is called Monotype pattern.
+There may be cases where Singleton is used underneath a class - This may cause issues since, the consumer of the class does not know that a Singleton is being used underneath.
+This, non-explicit use of Singleton is called Monotype pattern.
 */
